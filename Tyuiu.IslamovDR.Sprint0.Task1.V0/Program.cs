@@ -11,9 +11,9 @@ namespace Tyuiu.IslamovDR.Sprint0.Task1.V0
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World");
-            string name = "g";
-            int fd = 12;
-            Console.WriteLine("что то там"+name+"продолжение чегото"+fd+"еще что то");
+            string name = "G";
+            int fd = 33;
+            Console.WriteLine("Имя"+name+"лет"+fd+"все");
             Console.ReadKey();
         }
     }
